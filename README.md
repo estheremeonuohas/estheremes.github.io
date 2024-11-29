@@ -1,5 +1,8 @@
 # Data Scientist
 
+![WhatsApp Image 2024-11-29 at 03 25 33_6473364e](https://github.com/user-attachments/assets/f316d31c-eefb-4e22-91c5-6dff567330ef)
+
+
 #### Technical Skills: Python, SQL, R, Azure, PowerBi, MATLAB, Seaborn
 
 ## Education
