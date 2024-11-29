@@ -47,10 +47,17 @@
   - **Achievement:** Streamlined workflows, saving hours of manual effort per week.
 
 
-### Projects
-- Customer Churn
-- Fraud Detection
-- Credit Risk Analysis
+## Projects
+### Customer Churn
+Developed and impemented ML classification algorithm to predict churn rates and derived insight on reducing these rates using **Python**. This data-driven approach led to better characterization of the underlying causes for churn and low customer retention.
+![1705526647346](https://github.com/user-attachments/assets/ed60e9d6-2c12-4dce-92d9-7e0001b0ba6d)
+
+
+### Credit Risk Analysis
+Created and Deployed Machine Learning models which successfully and accurately segregated customers into different classes using their financial, commercial and social behavioural history. A commparative analysis of different models highlighted the strength and weaknesses of each approach. A rich exploratory data analysis was also done to highlight the relationship between variables in the data aas well as the distribution of each variable.
+
+![download](https://github.com/user-attachments/assets/0274188b-d2b4-4ab4-8a37-aa8daf58dd35)
+
 
 ## Talks & Lectures
 - Fintech: Sector Spread, Business Models and Profit Models - JIIPCC Mentorship and Intership Programme, Fall 2024
