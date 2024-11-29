@@ -1,17 +1,17 @@
 # Data Scientist
 
 ### Education
-Data Science, MSc.
-Finance and Investment, MSc.
-Finance and Investment, MA.
-Financial Accounting, BSc.
+- Data Science, MSc.
+- Finance and Investment, MSc.
+- Finance and Investment, MA.
+- Financial Accounting, BSc.
 
 ### Work Experience
-Data Scientist @ Happy Love Limited
+Data Scientist at Happy Love Limited
 
 ### Projects
-**Customer Churn Rates
-**Credit Risk Analysis 
+- Customer Churn 
+- Credit Risk Analysis 
 
 ### About Me
 👋 Hi, I am @estheremeonuohas
@@ -24,9 +24,7 @@ Data Scientist @ Happy Love Limited
 
 📫 How to reach me: You can reach me via email at [estheremeonuohas@gmail.com](mailto:estheremeonuohas@gmail.com) or connect with me on LinkedIn at [www.linkedin.com/in/estheremeonuohas](https://www.linkedin.com/in/estheremeonuohas).
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I love to learn and explore new techniques and technologies in improving my effieciency. I also sing quite well😄.
+⚡ Fun fact: I love to learn and explore new techniques and technologies to improve my effieciency.
 <!---
 estheremeonuohas/estheremeonuohas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
