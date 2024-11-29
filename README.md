@@ -1,17 +1,61 @@
 # Data Scientist
 
-### Education
-- Data Science, MSc.
-- Finance and Investment, MSc.
-- Finance and Investment, MA.
-- Financial Accounting, BSc.
+#### Technical Skills: Python, SQL, R, Azure, PowerBi, MATLAB, Seaborn
+
+## Education
+- Data Science, MSc | University of Salford 
+- Finance and Investment, MSc | London School of Business and Finance 
+- Finance and Investment, MA  | Geneva Business School 
+- Financial Accounting, BSc  | Salem University Lokoja 
 
 ### Work Experience
-Data Scientist at Happy Love Limited
+**Data Scientist at Happy Love Limited**
+- **Data Collection & Preprocessing:**  
+  - Developed automated pipelines for data acquisition and cleaning.  
+  - **Achievement:** Ensured high-quality, actionable data for analysis.
+
+- **Customer Segmentation & Targeting:**  
+  - Applied clustering models to segment customers for personalized marketing.  
+  - **Achievement:** Increased customer retention through targeted strategies.
+
+- **Predictive Analytics & Forecasting:**  
+  - Built models for sales, inventory forecasting, and customer lifetime value (CLV).  
+  - **Achievement:** Improved demand forecasting, reducing stockouts by 35%.
+
+- **Recommendation Systems:**  
+  - Developed personalized product recommendation algorithms.  
+  - **Achievement:** Boosted sales conversion rates by 57% through tailored recommendations.
+
+- **Marketing Analytics & Campaign Optimization:**  
+  - Analyzed marketing performance and optimized campaigns for higher ROI.  
+  - **Achievement:** Increased ROAS and improved conversion rates.
+
+- **Data Visualization & Reporting:**  
+  - Created interactive dashboards and reports for business stakeholders.  
+  - **Achievement:** Enabled data-driven decision-making for senior management.
+
+- **Machine Learning & Advanced Analytics:**  
+  - Applied ML algorithms for customer churn prediction and fraud detection.  
+  - **Achievement:** Delivered actionable insights that reduced churn by 63%.
+
+- **Collaboration & Stakeholder Communication:**  
+  - Collaborated with cross-functional teams to align data science with business goals.  
+  - **Achievement:** Drove business strategies with data-driven insights.
+
+- **Automation & Process Improvement:**  
+  - Automated routine data tasks to improve operational efficiency.  
+  - **Achievement:** Streamlined workflows, saving hours of manual effort per week.
+
 
 ### Projects
-- Customer Churn 
-- Credit Risk Analysis 
+- Customer Churn
+- Fraud Detection
+- Credit Risk Analysis
+
+## Talks & Lectures
+- Fintech: Sector Spread, Business Models and Profit Models - JIIPCC Mentorship and Intership Programme, Fall 2024
+- Raising Capital and Effective Business Negotiation in the Fintech Industry - JIIPCC Mentorship and Intership Programme, Spring 2023
+
 
 ### About Me
 👋 Hi, I am @estheremeonuohas
